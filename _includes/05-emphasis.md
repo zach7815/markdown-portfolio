@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# My skills
+
+##Programming languages 
+- **HTML**
+- **CSS**
+
+## Soft Skills
+- **Teamwork**
+- **Drive to learn new skills**
